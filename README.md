@@ -9,4 +9,4 @@ Steps Performed:
 5)Training logistic Regression Model
 6)Model Evaluation
 
-The accuracy of the model is nearly 90%
+The accuracy of the model obtained is nearly 90%
